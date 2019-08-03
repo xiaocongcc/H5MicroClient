@@ -10,8 +10,4 @@ H5微端的原理很简单，就是使用Android App的`WebView`控件。那么�
 
 [H5游戏微端开发（二）：缓存——引入第三方库CacheWebView](https://blog.csdn.net/wxc237786026/article/details/98040958)
 
-H5游戏微端开发（三）：联网检测（敬请期待）
-
-H5游戏微端开发（四）：网络异常情况处理（敬请期待）
-
-H5游戏微端开发（五）：app启动流程（敬请期待）
+[H5游戏微端开发（三）：app启动流程](https://blog.csdn.net/wxc237786026/article/details/98208931)
